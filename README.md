@@ -44,4 +44,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 License is MIT. See more [license FAQ](./LICENSE)
 
-Copyright (c) 2021-present, [Vedegis Evgenii](https://github.com/vedees)
+
+![alt text](src/assets/Screenshot_1.png)
