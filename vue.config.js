@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: "/",
+  publicPath: "/ClashofClans/",
   productionSourceMap: false,
   assetsDir: "assets",
 };
